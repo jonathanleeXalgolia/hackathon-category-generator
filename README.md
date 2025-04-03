@@ -18,8 +18,7 @@ This function is designed to be integrated with Algolia's merchandising workflow
 ## How It Works
 
 ### Input: 
-- An **Algolia product record** (JSON format) containing product details such as `name`, `description`, `title`, and more.  
-- **Category attributes** to guide categorization.  
+- An **Algolia product record** (JSON format) containing product details such as `name`, `description`, `title`, and more.
 
 ### Process:
 1. Detects the product language using `franc`.  

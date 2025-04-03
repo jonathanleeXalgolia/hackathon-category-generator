@@ -1,0 +1,24 @@
+{
+  "name": "hackathon-category-generator",
+  "version": "1.0.0",
+  "description": "lambda to generate categories",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanleeXalgolia/hackathon-category-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanleeXalgolia/hackathon-category-generator/issues"
+  },
+  "homepage": "https://github.com/jonathanleeXalgolia/hackathon-category-generator#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "franc": "^6.2.0",
+    "openai": "^4.91.1"
+  }
+}
